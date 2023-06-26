@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(244, 241, 241);
+}
+
+video {
+    max-width: 500px;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    border-radius: 25px;
+    border: solid;
+    border-color: #710627;
+}
+
+.btn {
+    background-color: #710627;
+}
+.hero-unit {
+    text-align: center;
+    background-color: #aaa0a6;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    color: black
+}
+.socialButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
